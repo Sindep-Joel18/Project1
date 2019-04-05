@@ -1,0 +1,178 @@
+li{
+	list-style-type: none;
+	float: right;
+	padding: 10px;
+	padding-top: 30px;
+
+}
+li a{
+
+	display: inline-block;
+	color: black;
+	text-decoration: none;
+}
+#logo{
+	display: inline-block;
+	color: solid pink;
+
+}
+h1{
+	text-align: center;
+	font-size: 4em; 
+	
+
+}
+p{
+	text-align: center;
+}
+#container{
+	background-image: url("../sample/ground.jpg");
+	height: 100vh;
+	background-size: cover;
+	
+
+
+}
+.everything{
+	background-color: rgba(0, 0, 0, 0.8);
+
+}
+
+#two{
+	height: 100vh;
+	background-size: 100vh;
+}
+
+#now{
+	margin-left: 45%;
+	border-radius: 30px;
+	color: white;
+	background-color: #77b300;
+	padding: 20px;
+
+
+}
+
+#green{
+	background-color: #77b300;
+	text-align: center;
+	height: 25vh;
+	padding: 20px;
+}
+p{
+	text-align: center;
+}
+
+#mic{
+	padding: 20px;
+	display: inline-block;
+}
+
+#best{
+	position: absolute;
+	left: 45%;
+	top: 143%;
+}
+
+.phone{
+	position: absolute;
+	left: 45%;
+	top: 147%;
+	font-size: 20px;
+	float: right;
+}
+
+#classify{
+	padding: 20px;
+	border-radius: 30px;
+	position: absolute;
+	left: 45%;
+	top: 165%;
+	background-color: #77b300
+}
+
+#sam{
+	width: 500px;
+	height: 300px;
+	border-radius: 100%;
+	position: absolute;
+	top: 140%;
+}
+
+#five{
+	width: 500px;
+	height: 300px;
+	border-radius: 100%;
+	position: absolute;
+	left: 55%;
+	top: 200%;
+	bottom: 30px;
+}
+
+#write{
+	position: absolute;
+	right: 70%;
+	top: 200%;
+	bottom: 30px;
+	font-size: 30px;
+
+}
+
+.rite{
+	position: absolute;
+	right: 50%;
+	top: 209%;
+	padding-left: 5px;
+	left: 3px;
+	font-size: 20px;
+	color: white;
+
+}
+
+#messi{
+	background-color: black;
+	height: 60vh;
+	margin-top: 400px;
+}
+
+#but{
+	position: absolute;
+	left: 7%;
+	top: 225%;
+	padding: 20px;
+	border-radius: 30px;
+	background-color: white;
+	width: 9%;
+
+}
+#lol{
+	width: 400px;
+	height: 250px;
+}
+#head{
+	position: absolute;
+	top: 270%;
+	left: 10%;
+	font-size: 30px;
+}
+#deep{
+	position: absolute;
+	top: 270%;
+	left: 45%;
+	font-size: 30px;
+}
+#see{
+	position: absolute;
+	top: 270%;
+	left: 80%;
+	font-size: 30px;
+}
+#eat{
+	text-align: center;
+}
+#check{
+	border-radius: 30px;
+	color: white;
+	background-color: #77b300;
+	padding: 20px;
+}
